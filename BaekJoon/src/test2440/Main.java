@@ -1,4 +1,4 @@
-package Test2442;
+package test2440;
 
 import java.util.Scanner;
 
@@ -10,17 +10,10 @@ public class Main {
 		int num = s.nextInt();
 
 		for (int i = 0; i < num; i++) {
-			for (int j = i + 1; j < num; j++) {
-				System.out.print(" ");
-			}
-			for (int k = 0; k <= i; k++) {
-				System.out.print("*");
-			}
-			for (int l = 0; l < i; l++) {
+			for (int j = i; j < num; j++) {
 				System.out.print("*");
 			}
 			System.out.println();
 		}
 	}
-
 }

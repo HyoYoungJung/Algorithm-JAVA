@@ -1,4 +1,4 @@
-package Test1271;
+package test1271;
 
 import java.math.BigInteger;
 import java.util.Scanner;

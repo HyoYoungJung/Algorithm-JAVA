@@ -1,4 +1,4 @@
-package Test2338;
+package test2338;
 
 import java.math.BigInteger;
 import java.util.Scanner;

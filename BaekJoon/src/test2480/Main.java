@@ -1,4 +1,4 @@
-package Test2480;
+package test2480;
 
 import java.util.Scanner;
 
