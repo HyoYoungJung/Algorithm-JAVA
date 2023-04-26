@@ -1,4 +1,4 @@
-package lv1_arr_average;
+package lv1_02_arrAverage;
 
 class Solution {
 	public double solution(int[] arr) {

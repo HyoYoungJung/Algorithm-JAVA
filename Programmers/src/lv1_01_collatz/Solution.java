@@ -1,4 +1,4 @@
-package lv1_collatz;
+package lv1_01_collatz;
 
 public class Solution {
 	public int solution(int num) {

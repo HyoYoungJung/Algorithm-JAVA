@@ -1,4 +1,4 @@
-package lv0_01;
+package lv0_01_stringOutput;
 
 import java.util.Scanner;
 

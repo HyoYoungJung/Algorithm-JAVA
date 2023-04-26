@@ -1,4 +1,4 @@
-package lv1_harshad_number;
+package lv1_03_harshadNumber;
 
 class Solution {
 	public boolean solution(int x) {
