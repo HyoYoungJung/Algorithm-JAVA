@@ -1,4 +1,4 @@
-package lv0_01_sumOfDivisor;
+package lv0_02_sumOfDivisor;
 
 class Solution {
 	public int solution(int n) {
