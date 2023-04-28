@@ -1,4 +1,4 @@
-package lv_1_05_addDigits;
+package lv1_05_addDigits;
 
 public class Solution {
 	public int solution(int n) {
